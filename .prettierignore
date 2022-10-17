@@ -1,0 +1,7 @@
+.env
+.pnp.*
+.vscode
+.yarn
+build
+services/api/src/graphql/generated-typings.ts
+tsconfig.tsbuildinfo
